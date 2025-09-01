@@ -7,22 +7,22 @@ const ProjetsPage: React.FC = () => {
     {
       title: 'Didi B - En Haut',
       url: 'https://open.spotify.com/track/595jJM2sqdHwv1kvcZUHTl?si=8dd7f2bde7ad400f',
-      image: 'https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg'
+      image: '/im-1.jpg'
     },
     {
       title: 'Didi B - L\'argent feat @DADJU',
       url: 'https://open.spotify.com/track/7FRniN2WWFoH77P3gFf51r?si=7bef6c64ebf74226',
-      image: 'https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg'
+      image: '/im-2.jpg'
     },
     {
       title: 'Didi B - Tala',
       url: 'https://open.spotify.com/track/7zEnFfGPhNdyjsNuxvNs9s?si=873d8b7f00de4494',
-      image: 'https://images.pexels.com/photos/1699161/pexels-photo-1699161.jpeg'
+      image: '/im-3.jpg'
     },
     {
       title: 'Didi B - Holiday Season',
       url: 'https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe?si=cbd3a27ea81940c2',
-      image: 'https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg'
+      image: '/im-4.jpg'
     }
   ];
 
@@ -30,22 +30,22 @@ const ProjetsPage: React.FC = () => {
     {
       title: 'Didi B - En Haut',
       url: 'https://youtu.be/e0K3OjNHTtA?si=ugLx9-YdbhOyk2nz',
-      thumbnail: 'https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg'
+      thumbnail: '/im-5.jpg'
     },
     {
       title: 'Didi B - L\'argent feat @DADJU',
       url: 'https://youtu.be/DKCQ_5s7pRE?si=B0mjeCDnGTsMvtwB',
-      thumbnail: 'https://images.pexels.com/photos/1763075/pexels-photo-1763075.jpeg'
+      thumbnail: '/im-6.jpg'
     },
     {
       title: 'Didi B - Tala',
       url: 'https://youtu.be/VHI2QPzlThk?si=Vc1D7T226RvfYK6-',
-      thumbnail: 'https://images.pexels.com/photos/1699161/pexels-photo-1699161.jpeg'
+      thumbnail: '/im-7.jpg'
     },
     {
       title: 'Didi B - Holiday Season',
       url: 'https://youtu.be/ESVsB0QLe74?si=idnAc87qyZGcjdDo',
-      thumbnail: 'https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg'
+      thumbnail: '/im-8.jpg'
     }
   ];
 
